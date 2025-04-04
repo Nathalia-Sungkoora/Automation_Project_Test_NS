@@ -25,5 +25,5 @@ jobs:
       DB_SERVER: ${{ secrets.PROD_DB_SERVER }}
       DB_USER: Auto_user
       DB_PASS: ${{ secrets.PROD_DB_PASS }}
-      DB_NAME: ${{ secrets.DB_NAME }}
+      DB_NAME: ${{ secrets.PROD_NAME }}
     concurrency: production
