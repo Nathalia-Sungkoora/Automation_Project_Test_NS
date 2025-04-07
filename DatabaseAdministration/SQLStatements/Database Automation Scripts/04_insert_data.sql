@@ -2,7 +2,7 @@
 -- Inserting data
 
 -- 1. Set context to our database
-USE AutoTest_NS_04April;
+USE AutoTest_NS_07April;
 GO
 
 -- 2. Execute the InsertUser procedure with sample data
