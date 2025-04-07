@@ -1,7 +1,7 @@
 --Inserting data by creating a stored procedure
 
 -- 1. Set context to our database
-USE AutoTest_NS_04April;
+USE AutoTest_NS_07April;
 GO
 
 -- 2. Create or modify procedure to insert user data
